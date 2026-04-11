@@ -1,13 +1,12 @@
 use anchor_lang::prelude::*;
 
-declare_id!("4pgDtkZUeAF7LmVmwJcJyBMmWB3dKFX7yiEGmL2Qjcey");
+declare_id!("Cpp3D9s8qjJ3vN3GYfLAuF2hXrrJvfVU8RQDcXfWpyQG");
 
 #[program]
-pub mod drishti {
+pub mod drishti_core {
     use super::*;
 
     pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
-        msg!("Greetings from: {:?}", ctx.program_id);
         Ok(())
     }
 }

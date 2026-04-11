@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-drishti = "4pgDtkZUeAF7LmVmwJcJyBMmWB3dKFX7yiEGmL2Qjcey"
+drishti = "Cpp3D9s8qjJ3vN3GYfLAuF2hXrrJvfVU8RQDcXfWpyQG"
 
 [registry]
 url = "https://api.apr.dev"
