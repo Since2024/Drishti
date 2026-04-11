@@ -5,10 +5,8 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-drishti = "Cpp3D9s8qjJ3vN3GYfLAuF2hXrrJvfVU8RQDcXfWpyQG"
-
-[registry]
-url = "https://api.apr.dev"
+drishti_core = "9ZWXmZErPWxScbjBFvNKWiWRTHDxrcqAAK96a1KzM2Gi"
+drishti_registry = "BGWW5iqBEDgv5xHzvqPWfvoWSVqBmydbc6xhWRX2jArn"
 
 [provider]
 cluster = "Localnet"
