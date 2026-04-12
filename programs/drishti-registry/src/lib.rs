@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("BGWW5iqBEDgv5xHzvqPWfvoWSVqBmydbc6xhWRX2jArn");
+declare_id!("2uAdCz8GAxynicss9aWpvH7wDRHvVPPUF5hpqECpEuEN");
 
 #[program]
 pub mod drishti_registry {
